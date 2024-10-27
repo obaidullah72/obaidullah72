@@ -39,15 +39,15 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 [<img align="left" alt="banku27 | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 
 
-[instagram]: https://instagram.com/__pankaj7__
-[linkedin]: https://www.linkedin.com/in/pankaj-parihar-63946a20b/
+[instagram]: https://www.instagram.com/obaidullah731/
+[linkedin]: https://www.linkedin.com/in/obaidullah72/
 
 
 <b>My GitHub Stats</b>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=banku27)](https://github.com/banku27/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=obaidullah72)](https://github.com/obaidullah72/github-contribution-stats/)
 
-<a href="http://www.github.com/banku27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=banku27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/obaidullah72"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullag72&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Most Used Languages:-</b>
 
