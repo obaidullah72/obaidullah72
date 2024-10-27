@@ -4,11 +4,9 @@
 
 Flutter Developer || BS-COMPUTER SCIENCE
 
-<div align="justify">
 
 As a skilled Flutter developer with over 1 year of experience, I am dedicated to creating innovative mobile applications that provide an exceptional user experience. Passionate about continuous learning and staying updated with the latest advancements in Flutter, I highlight my proficiency in Flutter widgets, state management, RESTful API integration, UI/UX design, and backend integration. Committed to writing clean, efficient, and well-documented code, I deliver high-quality solutions that exceed client expectations. I am eager to contribute to the open-source community and take on new challenges to deliver exceptional app experiences. I am always ready for new challenges.
 
-</div>
 
 Website Link : https://zonexdev.site/
 
