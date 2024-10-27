@@ -10,9 +10,9 @@ As a skilled Flutter developer with over 1 year of experience, I am dedicated to
 
 Website Link : https://zonexdev.site/
 
-[![](https://visitcount.itsvg.in/api?id=banku27&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=obaidullah72&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Followers](https://img.shields.io/github/followers/banku27?style=social)](https://github.com/banku27?tab=followers)
+[![Followers](https://img.shields.io/github/followers/obaidullah72?style=social)](https://github.com/obaidullah72?tab=followers)
 
 Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 
