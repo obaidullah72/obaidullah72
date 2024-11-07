@@ -51,8 +51,8 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=obaidullah72)](https://github.com/obaidullah72/github-contribution-stats/)
 
 <!-- GitHub Streak Stats -->
-<a href="http://www.github.com/obaidullah72">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah72&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+<a href="https://github.com/obaidullah72">
+  <img src="https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1c1917&ring=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </a>
 
 <b>Most Used Languages:-</b>
