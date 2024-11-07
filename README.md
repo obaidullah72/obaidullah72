@@ -54,4 +54,3 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 <b>Most Used Languages:-</b>
 
 <img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
-
