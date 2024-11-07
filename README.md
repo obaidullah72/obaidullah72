@@ -47,10 +47,18 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 
 <b>My GitHub Stats</b>
 
+<!-- Contribution Stats -->
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=obaidullah72)](https://github.com/obaidullah72/github-contribution-stats/)
 
-<a href="http://www.github.com/obaidullah72"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah72&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- GitHub Streak Stats -->
+<a href="http://www.github.com/obaidullah72">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah72&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</a>
 
 <b>Most Used Languages:-</b>
 
-<img width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+<!-- Most Used Languages -->
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&hide_title=1&card_width=300&langs_count=10" alt="Top languages used in my repos" />
+
+<!-- GitHub Stats (Main Stats) -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)](https://github.com/obaidullah72)
