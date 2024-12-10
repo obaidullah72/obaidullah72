@@ -43,8 +43,6 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 
 [instagram]: https://www.instagram.com/obaidullah731/
 [linkedin]: https://www.linkedin.com/in/obaidullah72/
-[facebook]: https://www.facebook.com/in/obaidullah72/
-
 
 <b>My GitHub Stats</b>
 
