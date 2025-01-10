@@ -57,7 +57,7 @@ Skills: C++ / Java / Python / Flutter / Dart / Android Development / HTML / CSS
 <b>Most Used Languages:-</b>
 
 <!-- Most Used Languages -->
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&hide_title=1&card_width=300&langs_count=20" alt="Top languages used in my repos" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&hide_title=1&card_width=300&langs_count=10" alt="Top languages used in my repos" />
 
 <!-- GitHub Stats (Main Stats) -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)](https://github.com/obaidullah72)
