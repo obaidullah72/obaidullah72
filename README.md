@@ -4,7 +4,7 @@
 
 Flutter Developer || Python Developer || BS-COMPUTER SCIENCE
 
-As a skilled Flutter developer with over 1 year of experience, I am dedicated to creating innovative mobile applications that provide an exceptional user experience. Passionate about continuous learning and staying updated with the latest advancements in Flutter, I highlight my proficiency in Flutter widgets, state management (Firebase, GetX, Provider), SQLite, and backend integration. Currently learning Django in Python, I am committed to writing clean, efficient, and well-documented code to deliver high-quality solutions. Always ready to contribute to the open-source community and take on new challenges.
+As a skilled Flutter developer with over 1 year of experience, I am dedicated to creating innovative mobile applications that provide an exceptional user experience. Passionate about continuous learning and staying updated with the latest advancements in Flutter, I highlight my proficiency in Flutter widgets, state management (Firebase, GetX, Provider), SQLite, and backend integration. Currently learning Django and Django Rest Framework (DRF), I am committed to writing clean, efficient, and well-documented code to deliver high-quality solutions. Always ready to contribute to the open-source community and take on new challenges.
 
 Website Link: [https://zonexdev.site/](https://zonexdev.site/)
 
@@ -12,12 +12,12 @@ Website Link: [https://zonexdev.site/](https://zonexdev.site/)
 
 [![Followers](https://img.shields.io/github/followers/obaidullah72?style=social)](https://github.com/obaidullah72?tab=followers)
 
-Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) / C++ / Java / Python / Android Development / HTML / CSS
+Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) / **Django Rest Framework (DRF)** / C++ / Java / Python / Android Development / HTML / CSS
 
 ## I'm a Student, Learner !!
 
-- 🌱 I’m currently constructing good apps using Flutter.
-- 🥅 2024 Goals: Help the community and open-source.
+- 🌱 I’m currently constructing good apps using Flutter and learning Django with DRF.
+- 🥅 2025 Goals: Help the community and open-source.
 - ♟️ Chess
 
 **Languages and Tools:**
@@ -30,6 +30,8 @@ Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/getx/getx.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqflite/sqflite.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django-rest-framework/django-rest-framework.png"></code>
 
 ### Connect:
 
@@ -57,4 +59,3 @@ Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) 
 
 <!-- GitHub Stats (Main Stats) -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)](https://github.com/obaidullah72)
-
