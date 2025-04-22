@@ -29,10 +29,10 @@ Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) 
   <a href="#"><img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
   <a href="#"><img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
   <a href="#"><img alt="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
-  <a href="#"><img alt="GetX" height="30" src="https://raw.githubusercontent.com/jameslawson/images/main/getx-logo.png"></a>
-  <a href="#"><img alt="SQFlite" height="30" src="https://raw.githubusercontent.com/obaidullah72/assets/main/sqflite.png"></a>
+  <a href="#"><img alt="GetX" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/getx/getx-logo.png"></a>
+  <a href="#"><img alt="SQFlite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqflite/sqflite.png"></a>
   <a href="#"><img alt="Django" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a>
-  <a href="#"><img alt="DRF" height="30" src="https://raw.githubusercontent.com/obaidullah72/assets/main/drf-icon.png"></a>
+  <a href="#"><img alt="DRF" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drf/drf-icon.png"></a>
 </p>
 
 ### Connect:
