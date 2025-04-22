@@ -58,6 +58,3 @@ Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) 
 <!-- GitHub Stats (Main Stats) -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)](https://github.com/obaidullah72)
 
----
-
-This version reflects your updated Flutter and Python skills. Let me know if you'd like to tweak anything further!
