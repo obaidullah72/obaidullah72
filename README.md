@@ -22,16 +22,18 @@ Skills: **Flutter** (Firebase, GetX, Provider, SQFlite) / **Django** (Learning) 
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/getx/getx.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqflite/sqflite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django-rest-framework/django-rest-framework.png"></code>
+<p align="left">
+  <a href="#"><img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="#"><img alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
+  <a href="#"><img alt="C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+  <a href="#"><img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="#"><img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+  <a href="#"><img alt="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
+  <a href="#"><img alt="GetX" height="30" src="https://raw.githubusercontent.com/jameslawson/images/main/getx-logo.png"></a>
+  <a href="#"><img alt="SQFlite" height="30" src="https://raw.githubusercontent.com/obaidullah72/assets/main/sqflite.png"></a>
+  <a href="#"><img alt="Django" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a>
+  <a href="#"><img alt="DRF" height="30" src="https://raw.githubusercontent.com/obaidullah72/assets/main/drf-icon.png"></a>
+</p>
 
 ### Connect:
 
