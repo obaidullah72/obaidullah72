@@ -7,7 +7,7 @@
 
 🎓 **BS – Computer Science** | 🌐 **[zonexdev.net](https://zonexdev.net/)**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=obaidullah72&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/obaidullah72&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)](https://github.com/obaidullah72)
 [![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=social)](https://github.com/obaidullah72?tab=followers)
 
 </div>
