@@ -143,10 +143,28 @@ I love turning **data into intelligence**, building **clean backend architecture
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+### 💡 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&lines=Thanks+for+visiting!+😊;+Feel+free+to+reach+out+for+collaborations!;+Let's+build+something+amazing+together!+🚀" />
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;+Shoot+me+a+message+if+you+have+any+questions!;" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/obaidullah72)
+
+**⭐️ From [obaidullah72](https://github.com/obaidullah72) with ❤️**
+
 </div>
