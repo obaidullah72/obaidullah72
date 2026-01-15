@@ -18,6 +18,11 @@
 [![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=social&label=Follow)](https://github.com/obaidullah72?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=social&label=Stars)](https://github.com/obaidullah72)
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
 </div>
 
 ---
@@ -29,6 +34,23 @@
 I'm a **Python-focused Data Science & AI Engineer** with experience in building **machine learning models, AI-driven systems, and data-powered APIs**. Alongside AI, I actively work as a **Django & Django REST Framework (DRF) backend developer** and a **Flutter mobile developer**, delivering scalable and production-ready applications.
 
 I love turning **data into intelligence**, building **clean backend architectures**, and crafting **smooth cross-platform mobile apps**. Strong believer in **clean code, performance, and continuous learning**.
+
+When I'm not coding, you can find me playing chess, exploring new AI technologies, or contributing to open-source projects. I'm always eager to learn new technologies and collaborate on exciting projects!
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+<div align="center">
+
+| 🤖 **AI & ML** | 🧠 **Backend** | 📱 **Mobile** | 📊 **Data Science** |
+|:---:|:---:|:---:|:---:|
+| Machine Learning Models | RESTful APIs | Cross-platform Apps | Data Analysis |
+| Deep Learning | Database Design | State Management | Data Visualization |
+| NLP & LLMs | Authentication | Firebase Integration | Model Optimization |
+| Computer Vision | Microservices | UI/UX Design | Statistical Analysis |
 
 </div>
 
@@ -42,8 +64,10 @@ I love turning **data into intelligence**, building **clean backend architecture
 
 ### 🤖 AI & Data Science
 - **Languages:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
-- **ML/DL:** Scikit-learn, TensorFlow, PyTorch
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- **ML/DL:** Scikit-learn, TensorFlow, PyTorch, Keras
+- **NLP:** NLTK, spaCy, Transformers
+- **Computer Vision:** OpenCV, PIL
 - **Focus:** Data Analysis, Visualization, Model Evaluation & Optimization, AI & ML API Integrations
 
 </td>
@@ -51,9 +75,11 @@ I love turning **data into intelligence**, building **clean backend architecture
 
 ### 🧠 Backend Development
 - **Framework:** Django, Django REST Framework (DRF)
-- **APIs:** REST APIs & Authentication
-- **Databases:** PostgreSQL / MySQL / SQLite
-- **Tools:** Celery & Background Tasks, Docker (Foundational)
+- **APIs:** REST APIs & Authentication (JWT, OAuth2)
+- **Databases:** PostgreSQL / MySQL / SQLite / MongoDB
+- **Tools:** Celery & Background Tasks, Docker (Foundational), Redis
+- **Testing:** pytest, unittest
+- **Deployment:** AWS, Heroku, Vercel
 
 </td>
 </tr>
@@ -62,19 +88,22 @@ I love turning **data into intelligence**, building **clean backend architecture
 
 ### 📱 Mobile Development
 - **Framework:** Flutter
-- **Backend:** Firebase
-- **State Management:** GetX, Provider
-- **Database:** SQFlite
-- **Integration:** Backend & API Integration
+- **Backend:** Firebase (Auth, Firestore, Storage, Functions)
+- **State Management:** GetX, Provider, Riverpod, Bloc
+- **Database:** SQFlite, Hive
+- **Integration:** Backend & API Integration, GraphQL
+- **UI/UX:** Material Design, Cupertino
 
 </td>
 <td valign="top" width="50%">
 
 ### 🛠️ Other Skills
-- **Languages:** Python, Java, C++
-- **Development:** Android Development
-- **Web:** HTML / CSS
-- **Version Control:** Git & GitHub
+- **Languages:** Python, Java, C++, JavaScript, Dart
+- **Development:** Android Development, Web Development
+- **Web:** HTML5 / CSS3 / JavaScript, Bootstrap, React (Basics)
+- **Version Control:** Git & GitHub, GitLab, Bitbucket
+- **Tools:** Postman, Jupyter Notebook, VS Code, Android Studio
+- **Design:** Figma (Basics), Adobe XD (Basics)
 
 </td>
 </tr>
@@ -94,6 +123,21 @@ I love turning **data into intelligence**, building **clean backend architecture
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VS Code" />
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullah72&theme=redical&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -105,12 +149,43 @@ I love turning **data into intelligence**, building **clean backend architecture
 - 🚀 Building **AI-powered & data-driven products**
 - 🤖 Exploring **LLMs, RAG pipelines & applied AI**
 - 📱 Shipping **real-world Flutter apps**
+- 🔒 Learning **Cybersecurity & Ethical Hacking**
 - ♟️ Chess enthusiast
+- 📚 Contributing to **open-source projects**
 
 ### 🥅 2026 Goals
 - Contribute to **open-source AI & backend projects**
 - Build impactful **AI + data platforms**
 - Grow into a **full-stack AI engineer**
+- Master **Cloud Computing** (AWS, Azure, GCP)
+- Publish **research papers** in AI/ML domain
+- Build a **portfolio of production-ready applications**
+
+</div>
+
+---
+
+## 💼 Projects & Portfolio
+
+<div align="center">
+
+🌐 **[Visit My Portfolio](https://zonexdev.net/)** to see my latest projects and work!
+
+</div>
+
+<div align="left">
+
+### 🔥 Featured Projects
+- **AI-Powered Applications** - Machine learning models and AI-driven systems
+- **Django REST APIs** - Scalable backend services with authentication
+- **Flutter Mobile Apps** - Cross-platform applications with modern UI/UX
+- **Data Science Projects** - Data analysis, visualization, and predictive modeling
+
+### 🛠️ Project Highlights
+- Built **production-ready APIs** using Django REST Framework
+- Developed **machine learning models** for various use cases
+- Created **cross-platform mobile apps** with Flutter
+- Implemented **real-time data processing** and analytics
 
 </div>
 
@@ -128,6 +203,45 @@ I love turning **data into intelligence**, building **clean backend architecture
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </div> -->
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical&hide_progress=true" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_rank=false" alt="GitHub Stats" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="left">
+
+- ✅ **BS Computer Science** - Graduated with focus on AI & Software Engineering
+- 🎯 **Multiple Projects** - Built and deployed various production applications
+- 📝 **Open Source Contributor** - Actively contributing to open-source projects
+- 🚀 **Continuous Learner** - Always exploring new technologies and frameworks
+
+</div>
+
+---
+
+## 📚 Learning Resources
+
+<div align="left">
+
+I'm constantly learning and improving. Here are some areas I'm currently exploring:
+
+- 📖 **Books:** Deep Learning, Clean Code, System Design
+- 🎓 **Courses:** Advanced ML, Cloud Computing, DevOps
+- 🔬 **Research:** LLMs, RAG Systems, Computer Vision
+- 💻 **Practice:** LeetCode, HackerRank, Kaggle Competitions
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect
@@ -138,10 +252,11 @@ I love turning **data into intelligence**, building **clean backend architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah72/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaidullah731/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obaidullah72)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zonexdev.net/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
-
----
 
 ---
 
@@ -166,5 +281,11 @@ I love turning **data into intelligence**, building **clean backend architecture
 [![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/obaidullah72)
 
 **⭐️ From [obaidullah72](https://github.com/obaidullah72) with ❤️**
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/obaidullah72/obaidullah72/blob/output/github-contribution-grid-snake.svg)
 
 </div>
