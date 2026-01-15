@@ -178,14 +178,18 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
   <img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=obaidullah72" alt="Contribution Stats" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div> -->
+</div>
 
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</div> -->
+<div align="center">
+  <a href="https://github.com/obaidullah72">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F00&icon_color=FF6F00" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/obaidullah72">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F00" alt="Most Used Languages" />
+  </a>
+</div>
 
 ---
 
