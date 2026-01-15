@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/obaidullah72&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)](https://github.com/obaidullah72)
+[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20Views&color=0891b2&style=for-the-badge)](https://github.com/obaidullah72)
 [![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=for-the-badge&logo=github&label=Followers&color=0891b2)](https://github.com/obaidullah72?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=for-the-badge&logo=github&label=Stars&color=0891b2)](https://github.com/obaidullah72)
 
