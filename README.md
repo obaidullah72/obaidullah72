@@ -18,10 +18,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20Views&color=FF6D00&style=for-the-badge)](https://github.com/obaidullah72)
-[![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=for-the-badge&logo=github&label=Followers&color=FF6D00)](https://github.com/obaidullah72?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=for-the-badge&logo=github&label=Stars&color=FF6D00)](https://github.com/obaidullah72)
-[![GitHub Forks](https://img.shields.io/github/forks/obaidullah72?style=for-the-badge&logo=github&label=Forks&color=FF6D00)](https://github.com/obaidullah72)
+[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20Views&color=0891b2&style=for-the-badge)](https://github.com/obaidullah72)
+[![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=for-the-badge&logo=github&label=Followers&color=0891b2)](https://github.com/obaidullah72?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=for-the-badge&logo=github&label=Stars&color=0891b2)](https://github.com/obaidullah72)
 
 </div>
 
@@ -170,53 +169,23 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullah72&theme=radical&hide_border=true&area=true&height=300&bg_color=0D1117&color=FF6D00&line=FF6D00&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullah72&theme=redical&hide_border=true&area=true&height=300)
 
 </div>
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github#gh-dark-mode-only)](https://github.com/obaidullah72#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github#gh-light-mode-only)](https://github.com/obaidullah72#gh-light-mode-only)
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true&background=0D1117&ring=FF6D00&fire=FF6D00&currStreakLabel=FF6D00)
-
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-  
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&hide_title=false&card_width=450&size_weight=0.5&count_weight=0.5#gh-dark-mode-only)](https://github.com/obaidullah72#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=default&hide_border=true&hide_title=false&card_width=450&size_weight=0.5&count_weight=0.5#gh-light-mode-only)](https://github.com/obaidullah72#gh-light-mode-only)
-
-</div>
-
-### 📈 Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=obaidullah72" alt="Contribution Stats" />
 </div>
 
-### 📌 Featured Repositories
+<!-- <div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div> -->
 
-<div align="center">
-  
-<!-- Uncomment and customize with your actual repository names -->
-<!-- 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obaidullah72&repo=your-repo-name&show_owner=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/obaidullah72/your-repo-name)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obaidullah72&repo=your-repo-name&show_owner=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/obaidullah72/your-repo-name)
--->
-
-</div>
+<!-- <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</div> -->
 
 ---
 
@@ -330,7 +299,7 @@ I'm constantly learning and improving. Here are some areas I'm currently explori
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=FF6D00&style=for-the-badge)](https://github.com/obaidullah72)
+[![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/obaidullah72)
 
 **⭐️ From [obaidullah72](https://github.com/obaidullah72) with ❤️**
 
