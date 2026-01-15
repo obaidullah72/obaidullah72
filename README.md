@@ -149,16 +149,6 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true&fire=FF6F00&ring=FF6F00&currStreakLabel=FF6F00)
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_rank=false&hide_title=false" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical&hide_progress=false&hide_title=false" alt="Most Used Languages" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=obaidullah72" alt="Contribution Stats" />
