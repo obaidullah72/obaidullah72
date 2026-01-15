@@ -14,14 +14,23 @@
 
 🎓 **BS – Computer Science** | 🌐 **[zonexdev.net](https://zonexdev.net/)**
 
+</div>
+
+<div align="center">
+
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/obaidullah72&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)](https://github.com/obaidullah72)
-[![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=social&label=Follow)](https://github.com/obaidullah72?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=social&label=Stars)](https://github.com/obaidullah72)
+[![GitHub Followers](https://img.shields.io/github/followers/obaidullah72?style=for-the-badge&logo=github&label=Followers&color=0891b2)](https://github.com/obaidullah72?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/obaidullah72?style=for-the-badge&logo=github&label=Stars&color=0891b2)](https://github.com/obaidullah72)
+
+</div>
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
@@ -132,13 +141,37 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Metrics
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullah72&theme=redical&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidullah72&theme=redical&hide_border=true&area=true&height=300)
 
 </div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true&fire=FF6F00&ring=FF6F00&currStreakLabel=FF6F00)
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_rank=false&hide_title=false" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical&hide_progress=false&hide_title=false" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=obaidullah72" alt="Contribution Stats" />
+</div>
+
+<!-- <div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div> -->
+
+<!-- <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</div> -->
 
 ---
 
@@ -154,12 +187,12 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
 - 📚 Contributing to **open-source projects**
 
 ### 🥅 2026 Goals
-- Contribute to **open-source AI & backend projects**
-- Build impactful **AI + data platforms**
-- Grow into a **full-stack AI engineer**
-- Master **Cloud Computing** (AWS, Azure, GCP)
-- Publish **research papers** in AI/ML domain
-- Build a **portfolio of production-ready applications**
+- ✅ Contribute to **open-source AI & backend projects**
+- ✅ Build impactful **AI + data platforms**
+- ✅ Grow into a **full-stack AI engineer**
+- ✅ Master **Cloud Computing** (AWS, Azure, GCP)
+- ✅ Publish **research papers** in AI/ML domain
+- ✅ Build a **portfolio of production-ready applications**
 
 </div>
 
@@ -188,21 +221,6 @@ When I'm not coding, you can find me playing chess, exploring new AI technologie
 - Implemented **real-time data processing** and analytics
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-contribution-stats.vercel.app/api/?username=obaidullah72" alt="Contribution Stats" />
-  <!-- <img width="49%" src="https://streak-stats.demolab.com/?user=obaidullah72&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-</div>
-
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah72&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=obaidullah72&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</div> -->
-
 
 ---
 
@@ -244,7 +262,6 @@ I'm constantly learning and improving. Here are some areas I'm currently explori
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaidullah731/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obaidullah72)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zonexdev.net/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -271,14 +288,5 @@ I'm constantly learning and improving. Here are some areas I'm currently explori
 [![Profile Views](https://komarev.com/ghpvc/?username=obaidullah72&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/obaidullah72)
 
 **⭐️ From [obaidullah72](https://github.com/obaidullah72) with ❤️**
-
-</div>
-
-
----
-
-<div align="center">
-
-![Contribution Graph](https://github-contributions.vercel.app/api?username=obaidullah72&theme=radical&hide_border=true)
 
 </div>
